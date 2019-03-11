@@ -1,0 +1,5 @@
+Bonjour je m'appelle Fred.
+
+Je suis en reconversion professionnelle.
+
+Nouveau en programmation, je découvre et je commence par ce premier exo sur Git et Github
